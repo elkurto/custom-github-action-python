@@ -5,7 +5,7 @@
   ```yaml
   steps:
     - name: Run custom action
-      uses: elkurto/custom-github-action-node@main
+      uses: elkurto/custom-github-action-python@main
 
 
   ```
